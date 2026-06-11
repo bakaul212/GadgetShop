@@ -1,6 +1,7 @@
 # GadgetShop 🛍️ - Modern Mini E-commerce Platform
 
 A fast, clean, and fully-responsive mini E-commerce web application built using **Next.js 14+ (App Router)**, **Tailwind CSS**, and **Zustand** for global state management. This project features real-time search, dynamic category filtering, smooth animations, a seamless shopping cart experience, and an interactive dynamic checkout flow.
+Live Link: https://mellow-frangollo-3e2d36.netlify.app
 
 ---
 
